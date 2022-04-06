@@ -1,0 +1,18 @@
+h1
+{ 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("https://cdn2.vectorstock.com/i/1000x1000/44/96/abstract-frame-of-colored-pencils-background-vector-6844496.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+#myCanvas{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: steelblue;
+    background-color: white;
+}
